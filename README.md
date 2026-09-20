@@ -142,13 +142,3 @@ Hydrogen v0 is an experimental project.
 The architecture, implementation, APIs, and model behavior may change as development continues.
 
 Do not assume that the current implementation represents a final or stable architecture.
-
-## Contributing
-
-Ideas, experiments, testing, and improvements are welcome.
-
-If you find an implementation problem or have an idea for improving Hydrogen, open an issue or submit a pull request.
-
-## License
-
-See the repository for the current license information.
