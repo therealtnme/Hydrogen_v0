@@ -51,8 +51,8 @@ def generate(model, tokenizer, device, prompt):
     messages.append({"role": "assistant", "content": output})
 
 def main():
-    # path = "takenusername32/Hydrogen-v0-50M-Base"
-    path = input("Path: ")
+    path = "takenusername32/Hydrogen-v0-50M-Base"
+    # path = input("Path: ")
     model, tokenizer, device = load_model(path)
 
     while True:
