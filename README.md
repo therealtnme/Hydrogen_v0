@@ -1,3 +1,5 @@
+[☕ Support Hydrogen's development](https://buymeacoffee.com/tnme)
+
 # Hydrogen v0
 
 Hydrogen v0 is an experimental multimodal language model built on top of the Hugging Face Transformers architecture.
